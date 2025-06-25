@@ -11,7 +11,7 @@
 		}
 	  },
 	  {
-		"name": "My test vc",
+		"name": "damienbod vc",
 		"locale": "en-US",
 		"logo": {
 		  "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABD0lEQVR4nOyYsUrEQBRFVQYRYYUtZi0UC0vFUrBeYW1sF2E/wU623P8RkTSCf7FFipDaIkxhmkyapBgCYivz5sKAmynuaS9vOPDgcRlVXl/spcTB2AJ/oRCCQggKIVT8pJ4pfeqNnKmG1u5aaLpc6ecXb2Q26/Yji3s2uZVRCEEhBIUQFEKIl1rp2XS5Ckwe395J0WS+ODw7l1JX1zZ7ldJ9qVMfXd1cvn8GhKLpy+Lr6VFKk1sZhRAUQlAIIR5GZyqzWQcmJ/PFyf2DN2qyty7fSoODbWKEhtaGe/HvLRaEunzLTv1vUAhBIQSFEPGfDa7+7svCG4VvcRixwo5FciujEIJCCAohkhP6CQAA///lDD1tMy8HCAAAAABJRU5ErkJggg=="
@@ -19,7 +19,7 @@
 	  }
 	],
 	"credential_configurations_supported": {
-	  "my-test-vc": {
+	  "damienbod-vc": {
 		"format": "vc+sd-jwt",
 		"cryptographic_binding_methods_supported": [
 		  "did:jwk"
@@ -41,7 +41,7 @@
 			"logo": {
 			  "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABD0lEQVR4nOyYsUrEQBRFVQYRYYUtZi0UC0vFUrBeYW1sF2E/wU623P8RkTSCf7FFipDaIkxhmkyapBgCYivz5sKAmynuaS9vOPDgcRlVXl/spcTB2AJ/oRCCQggKIVT8pJ4pfeqNnKmG1u5aaLpc6ecXb2Q26/Yji3s2uZVRCEEhBIUQFEKIl1rp2XS5Ckwe395J0WS+ODw7l1JX1zZ7ldJ9qVMfXd1cvn8GhKLpy+Lr6VFKk1sZhRAUQlAIIR5GZyqzWQcmJ/PFyf2DN2qyty7fSoODbWKEhtaGe/HvLRaEunzLTv1vUAhBIQSFEPGfDa7+7svCG4VvcRixwo5FciujEIJCCAohkhP6CQAA///lDD1tMy8HCAAAAABJRU5ErkJggg=="
 			},
-			"description": "Das ist ein Test-VC",
+			"description": "Das ist ein Test-VC for damienbod",
 			"background_color": "#ff69b4"
 		  },
 		  {
@@ -50,11 +50,11 @@
 			"logo": {
 			  "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAIAAADYYG7QAAABD0lEQVR4nOyYsUrEQBRFVQYRYYUtZi0UC0vFUrBeYW1sF2E/wU623P8RkTSCf7FFipDaIkxhmkyapBgCYivz5sKAmynuaS9vOPDgcRlVXl/spcTB2AJ/oRCCQggKIVT8pJ4pfeqNnKmG1u5aaLpc6ecXb2Q26/Yji3s2uZVRCEEhBIUQFEKIl1rp2XS5Ckwe395J0WS+ODw7l1JX1zZ7ldJ9qVMfXd1cvn8GhKLpy+Lr6VFKk1sZhRAUQlAIIR5GZyqzWQcmJ/PFyf2DN2qyty7fSoODbWKEhtaGe/HvLRaEunzLTv1vUAhBIQSFEPGfDa7+7svCG4VvcRixwo5FciujEIJCCAohkhP6CQAA///lDD1tMy8HCAAAAABJRU5ErkJggg=="
 			},
-			"description": "This is an test vc",
+			"description": "This is an damienbod vc",
 			"background_color": "#4A412A"
 		  }
 		],
-		  "vct": "my-test-vc",
+		  "vct": "damienbod-vc",
 		"claims": {
 		  "lastName": {
 			"mandatory": false,
