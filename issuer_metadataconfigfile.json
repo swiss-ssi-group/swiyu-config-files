@@ -1,6 +1,6 @@
 {
 	"credential_issuer": "https://swiyu-oid4vci.bravegrass-6897e4b2.switzerlandnorth.azurecontainerapps.io",
-	"credential_endpoint": "https://swiyu-oid4vci.bravegrass-6897e4b2.switzerlandnorth.azurecontainerapps.io/api/v1/credential",
+	"credential_endpoint": "https://swiyu-oid4vci.internal.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io/api/v1/credential",
 	"version": "1.0",
 	"display": [
 	  {
