@@ -1,4 +1,4 @@
 {
-	"issuer": "https://swiyu-oid4vci.internal.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io",
-	"token_endpoint": "https://swiyu-oid4vci.internal.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io/api/v1/token"
+	"issuer": "https://swiyu-oid4vci.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io",
+	"token_endpoint": "https://swiyu-oid4vci.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io/api/v1/token"
 }
