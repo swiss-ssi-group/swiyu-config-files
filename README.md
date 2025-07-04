@@ -1,4 +1,4 @@
-# swiyu configuratio files
+# swiyu configuration files
 
 See:
 
