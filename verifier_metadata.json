@@ -6,6 +6,6 @@
   "client_name#de-CH": "damienbod Verifizier",
   "client_name#de": "damienbod Verifizierer (Fallback DE)",
   "client_name": "damienbod Verifier (Base)",
-  "logo_uri": "www.example.com/logo.png",
-  "logo_uri#fr": "www.example.com/logo_fr.png"
+  "logo_uri": "https://raw.githubusercontent.com/swiss-ssi-group/swiyu-config-files/refs/heads/main/logo.png",
+  "logo_uri#fr": "https://raw.githubusercontent.com/swiss-ssi-group/swiyu-config-files/refs/heads/main/logo.png"
 }
