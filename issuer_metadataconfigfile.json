@@ -1,6 +1,6 @@
 {
-	"credential_issuer": "https://swiyu-oid4vci.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io",
-	"credential_endpoint": "https://swiyu-oid4vci.delightfulsky-453308fc.switzerlandnorth.azurecontainerapps.io/api/v1/credential",
+	"credential_issuer": "https://swiyu-issuer.redpebble-62dbc6b1.switzerlandnorth.azurecontainerapps.io",
+	"credential_endpoint": "https://swiyu-issuer.redpebble-62dbc6b1.switzerlandnorth.azurecontainerapps.io/oid4vci/api/credential",
 	"version": "1.0",
 	"credential_response_encryption": {
           "encryption_required": false,
